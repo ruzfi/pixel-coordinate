@@ -2,6 +2,8 @@
 
 A Caido plugin that adds a **"Pixel Coordinates"** view mode to HTTP responses. When you select it on an image response, it renders the image and shows the pixel coordinate under your cursor.
 
+![pixel-coordinate preview](images/preview.png)
+
 ## Features
 
 - **Hover** — a live readout of the `(X, Y)` pixel coordinate under the cursor, in the *original* image's pixel space (correct even when the image is scaled to fit).
