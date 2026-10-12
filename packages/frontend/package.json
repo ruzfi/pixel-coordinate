@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "dependencies": {
+    "vue": "3.4.37"
+  },
+  "devDependencies": {
+    "@caido/sdk-backend": "^0.58.3",
+    "@caido/sdk-frontend": "^0.58.3",
+    "backend": "workspace:*",
+    "vue-tsc": "2.0.29"
+  }
+}
