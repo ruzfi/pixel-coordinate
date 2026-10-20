@@ -6,7 +6,7 @@ export default defineConfig({
   name: "Pixel Coordinate",
   description:
     "Hover over rendered images to see pixel coordinates. Click to freeze the coordinate, then click Clear to reset.",
-  version: "0.1.0",
+  version: "0.1.1",
   author: {
     name: "ruzfi",
     email: "riyan@ruz.fi",
